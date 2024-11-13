@@ -1,3 +1,7 @@
+Nama: Muhammad Fajar Apriliansyah
+NIM/Kelas: 2205101072/5D
+
+
 # SEMANTIC-HTML 
 Latihan Praktikum Semantic HTML.
 
