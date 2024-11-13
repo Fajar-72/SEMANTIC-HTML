@@ -15,10 +15,10 @@ Project ini berfokus pada penerapan struktur HTML Semantic.
    * `<section>`: Bagian `<section>` hanya berisi teks tanpa elemen tambahan. Sebaiknya diisi dengan HTML seperti paragraf atau heading agar lebih informatif.
    * Teks Copyright: Dalam `<footer>`, sebaiknya gunakan entitas HTML `&copy;` untuk simbol hak cipta, sehingga lebih standart.
   
-## Analisis Code HTML ##
-1. `<display: grid;>`
+## Analisis Code CSS ##
+1. ## `<display: grid;>` ##
    Ini telah diterapkan pada elemen `body` untuk membuat tata letak grid. Penggunaan `grid-template-areas` dan pembagian grid area (`header`, `nav`, `section`, dan `footer`) sudah tepat untuk mengatur struktur layout.
-2. `grid-template-rows` dan `grid-template-columns`
+2. ## `grid-template-rows` dan `grid-template-columns` ##
    Properti ini telah digunakan untuk menentukan tinggi dan lebar masing-masing baris dan kolom dalam grid.
 3. ## Kekurangan ##
    * Responsivitas
